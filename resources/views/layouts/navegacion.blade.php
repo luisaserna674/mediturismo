@@ -7,7 +7,7 @@
       <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link" href="{{ route('auth.index') }}">Iniciar sesión</a>
+            <a class="nav-link" href="#">Iniciar sesión</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Registrarse</a>
